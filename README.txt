@@ -24,7 +24,9 @@ O CPR foi desenvolvido para simplificar e automatizar o controle de pedidos, tra
 1. Localize o arquivo **CPR.exe** na pasta onde o programa foi instalado.  
 2. Crie um atalho para ele clicando com o botão direito > Enviar para > Área de trabalho (criar atalho).  
 3. Use esse atalho para abrir o CPR com mais facilidade no dia a dia.  
-4. Ao abrir, o terminal será exibido brevemente. Aguarde a janela principal branca do programa abrir.
+4. Ao abrir, o terminal será exibido. Aguarde a janela principal branca do programa abrir.
+5. O terminal serve para mostrar informações dos pedidos no ato de "bipagem". 
+ATENÇÃO: Ao fechar o terminal o programa será fechado.
 
 🔹 Quer aprender a usar?  
 Para aprender a utilizar todos os recursos do sistema, leia o manual completo que acompanha este programa:  
